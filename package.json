@@ -1,6 +1,6 @@
 {
   "name": "growi-plugin-unc-copy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "GROWI plugin: turn inline-code UNC paths (\\\\server\\share) into click-to-copy label links, like the old DokuWiki portal.",
   "license": "MIT",
   "keywords": [
@@ -19,6 +19,7 @@
     "react-innertext": "^1.1.5"
   },
   "devDependencies": {
+    "@types/node": "^18.11.9",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
